@@ -19,3 +19,10 @@ Ways to research happily!
 2. [Inspiration for your scientific writing](https://writingscientist.com/newsletter/)
 3. [Six principles for writing a better first draft faster](https://writingscientist.com/first-draft/)
 4. [How to gain & keep focus for writing](https://writingscientist.com/focus/)
+
+## Meditation
+1. [Meditation(Wikipedia)](https://en.wikipedia.org/wiki/Meditation)
+2. [How to Meditate](https://www.mindful.org/how-to-meditate/)
+3. [Meditation for Beginners](https://www.mindful.org/meditation-for-beginners/)
+4. [How to Meditate](https://www.nytimes.com/guides/well/how-to-meditate)
+5. [5-Minute Meditation You Can Do Anywhere](https://www.youtube.com/watch?v=inpok4MKVLM)
