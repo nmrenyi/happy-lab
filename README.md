@@ -20,6 +20,9 @@ Ways to research happily!
 3. [Six principles for writing a better first draft faster](https://writingscientist.com/first-draft/)
 4. [How to gain & keep focus for writing](https://writingscientist.com/focus/)
 
+## Reading
+1. [How to Read a Scientific Article](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf)
+
 ## Meditation
 1. [Meditation(Wikipedia)](https://en.wikipedia.org/wiki/Meditation)
 2. [How to Meditate](https://www.mindful.org/how-to-meditate/)
