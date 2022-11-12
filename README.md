@@ -23,6 +23,12 @@ Ways to research happily!
 ## Reading
 1. [How to Read a Scientific Article](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf)
 
+## Music
+1. Kinderszenen, Op. 15: No. 7. Träumerei
+2. Preclude in G Major
+3. Minuet No.1 in G Major
+4. Morning Mood Variation
+
 ## Meditation
 1. [5-Minute Meditation You Can Do Anywhere](https://www.youtube.com/watch?v=inpok4MKVLM)
 2. [Meditation(Wikipedia)](https://en.wikipedia.org/wiki/Meditation)
