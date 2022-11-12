@@ -24,8 +24,8 @@ Ways to research happily!
 1. [How to Read a Scientific Article](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf)
 
 ## Meditation
-1. [Meditation(Wikipedia)](https://en.wikipedia.org/wiki/Meditation)
-2. [How to Meditate](https://www.mindful.org/how-to-meditate/)
-3. [Meditation for Beginners](https://www.mindful.org/meditation-for-beginners/)
-4. [How to Meditate](https://www.nytimes.com/guides/well/how-to-meditate)
-5. [5-Minute Meditation You Can Do Anywhere](https://www.youtube.com/watch?v=inpok4MKVLM)
+1. [5-Minute Meditation You Can Do Anywhere](https://www.youtube.com/watch?v=inpok4MKVLM)
+2. [Meditation(Wikipedia)](https://en.wikipedia.org/wiki/Meditation)
+3. [How to Meditate](https://www.mindful.org/how-to-meditate/)
+4. [Meditation for Beginners](https://www.mindful.org/meditation-for-beginners/)
+5. [How to Meditate](https://www.nytimes.com/guides/well/how-to-meditate)
