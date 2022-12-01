@@ -40,6 +40,7 @@ Ways to research happily!
 4. Morning Mood Variation
 5. An der schönen blauen Donau, Op. 314
 6. Goldberg Variations, BWV 988
+7. Allegro. The First Source of the Moldau - The Second Source - Woods; Hunt; L'istesso tempo ma moderato. Peasant Wedding; L'istesso tempo. Moonlight
 
 ## Meditation
 1. [5-Minute Meditation You Can Do Anywhere](https://www.youtube.com/watch?v=inpok4MKVLM)
