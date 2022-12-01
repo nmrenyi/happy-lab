@@ -15,6 +15,9 @@ Ways to research happily!
 3. [Six principles for writing a better first draft faster](https://writingscientist.com/first-draft/)
 4. [How to gain & keep focus for writing](https://writingscientist.com/focus/)
 
+## Submitting Paper
+1. [Common problems that lead to rejection](https://www.hindawi.com/post/common-problems-lead-rejection/)
+
 ## How to PhD
 1. [PhD](https://github.com/macoj/phd)
 2. [how-to-begin-phd-CN](https://github.com/pkuzengqi/how-to-begin-phd-CN)
