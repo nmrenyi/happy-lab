@@ -13,6 +13,8 @@ Ways to research happily!
 8. [The PhD Journey](https://www.findaphd.com/guides/the-phd-journey)
 9. [5 routes to getting a Doctorate](https://www.prospects.ac.uk/postgraduate-study/phd-study/5-routes-to-getting-a-doctorate)
 10. [谁是等等：透过参考文献看科研素养](https://mp.weixin.qq.com/s/dAraUE9mEWC_k4xD-gUJTw)
+11. [如何写选题（开题）报告](https://mp.weixin.qq.com/s/Nm290G0buJq0VlroG9oQLA)
+12. [选题的优雅法则——FINER criteria](https://mp.weixin.qq.com/s/Hs2DQ-b7cZO3rzCnjPeWhQ)
 
 ## Writing
 1. [How to write a whole research paper in a week](https://writingscientist.com/paper-in-a-week/)
