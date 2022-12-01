@@ -39,6 +39,7 @@ Ways to research happily!
 3. Minuet No.1 in G Major
 4. Morning Mood Variation
 5. An der schönen blauen Donau, Op. 314
+6. Goldberg Variations, BWV 988
 
 ## Meditation
 1. [5-Minute Meditation You Can Do Anywhere](https://www.youtube.com/watch?v=inpok4MKVLM)
