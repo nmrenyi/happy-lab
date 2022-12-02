@@ -29,8 +29,7 @@ Ways to research happily!
 7. [How to Get a PhD](https://www.wikihow.com/Get-a-PhD)
 8. [The PhD Journey](https://www.findaphd.com/guides/the-phd-journey)
 9. [5 routes to getting a Doctorate](https://www.prospects.ac.uk/postgraduate-study/phd-study/5-routes-to-getting-a-doctorate)
-10. [Things-a-scientist-is-suppposed-to-know
-](https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know)
+10. [Things-a-scientist-is-suppposed-to-know](https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know)
 
 ## Miscellanenous
 1. [谁是等等：透过参考文献看科研素养](https://mp.weixin.qq.com/s/dAraUE9mEWC_k4xD-gUJTw)
