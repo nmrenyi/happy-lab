@@ -32,7 +32,7 @@ Ways to research happily!
 9. [5 routes to getting a Doctorate](https://www.prospects.ac.uk/postgraduate-study/phd-study/5-routes-to-getting-a-doctorate)
 10. [Things-a-scientist-is-suppposed-to-know](https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know)
 
-## Miscellanenous
+## Research Taste
 1. [谁是等等：透过参考文献看科研素养](https://mp.weixin.qq.com/s/dAraUE9mEWC_k4xD-gUJTw)
 
 ## Metal Health
