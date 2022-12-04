@@ -20,7 +20,8 @@ Ways to research happily!
 1. [Common problems that lead to rejection](https://www.hindawi.com/post/common-problems-lead-rejection/)
 2. [Never on a Sunday! Is there a best day for submitting an article for publication?](https://blogs.lse.ac.uk/impactofsocialsciences/2019/01/29/never-on-a-sunday-is-there-a-best-day-for-submitting-an-article-for-publication/)
 
-## How to PhD
+## Research Methodology
+### How to PhD
 1. [PhD](https://github.com/macoj/phd)
 2. [how-to-begin-phd-CN](https://github.com/pkuzengqi/how-to-begin-phd-CN)
 3. [Computer Science Ph.D. Information for Future Students.](https://github.com/mycsphd/mycsphd.github.io)
