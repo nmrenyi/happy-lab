@@ -34,7 +34,8 @@ Ways to research happily!
 ## Miscellanenous
 1. [谁是等等：透过参考文献看科研素养](https://mp.weixin.qq.com/s/dAraUE9mEWC_k4xD-gUJTw)
 
-## Music
+## Metal Health
+### Music
 1. Kinderszenen, Op. 15: No. 7. Träumerei
 2. Preclude in G Major
 3. Minuet No.1 in G Major
@@ -43,7 +44,7 @@ Ways to research happily!
 6. Goldberg Variations, BWV 988
 7. Allegro. The First Source of the Moldau - The Second Source - Woods; Hunt; L'istesso tempo ma moderato. Peasant Wedding; L'istesso tempo. Moonlight
 
-## Meditation
+### Meditation
 1. [5-Minute Meditation You Can Do Anywhere](https://www.youtube.com/watch?v=inpok4MKVLM)
 2. [Meditation(Wikipedia)](https://en.wikipedia.org/wiki/Meditation)
 3. [How to Meditate](https://www.mindful.org/how-to-meditate/)
