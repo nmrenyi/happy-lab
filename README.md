@@ -37,6 +37,9 @@ Ways to research happily!
 1. [谁是等等：透过参考文献看科研素养](https://mp.weixin.qq.com/s/dAraUE9mEWC_k4xD-gUJTw)
 
 ## Metal Health
+### Guidance
+1. [10 Tips for Students to Improve their Mental Health](https://leverageedu.com/blog/mental-health-for-students/)
+
 ### Music
 1. Kinderszenen, Op. 15: No. 7. Träumerei
 2. Preclude in G Major
