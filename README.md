@@ -34,6 +34,16 @@ Ways to research happily!
 2. [Connected Papers (find related papers)](https://paperswithcode.com/)
 3. [ContentMine (A Powerful Tool for Paper Mining)](https://contentmine.github.io/)
 
+## Research Socialization
+1. [GitHub](https://github.com)
+2. [Google Scholar](https://scholar.google.com)
+3. [Research Gate](https://www.researchgate.net)
+4. [LinkedIn](https://www.linkedin.com)
+5. [Twitter](https://twitter.com)
+6. [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+7. [OpenReview](https://openreview.net)
+8. [Semantic Scholar](https://www.semanticscholar.org)
+
 ## Research Methodology
 ### How to PhD
 1. [PhD](https://github.com/macoj/phd)
