@@ -29,6 +29,11 @@ Ways to research happily!
 5. [Microsoft Powerpoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 6. [Keynote](https://www.apple.com/keynote/)
 
+### Survey Tools
+1. [arXiv sanity (find related work in CS quickly)](https://arxiv-sanity-lite.com/)
+2. [Connected Papers (find related papers)](https://paperswithcode.com/)
+3. [ContentMine (A Powerful Tool for Paper Mining)](https://contentmine.github.io/)
+
 ## Research Methodology
 ### How to PhD
 1. [PhD](https://github.com/macoj/phd)
