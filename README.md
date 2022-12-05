@@ -49,18 +49,6 @@ Ways to research happily!
 10. [Bibutils](https://sourceforge.net/projects/bibutils/)
 11. [BibSonomy](https://www.bibsonomy.org)
 12. [BibBase](https://bibbase.org)
-13. [BibTeX Online](https://www.bibtexonline.com)
-14. [BibTeX to Markdown](https://bibtex-to-markdown.herokuapp.com)
-15. [BibTeX to HTML](https://bibtex-to-html.herokuapp.com)
-16. [BibTeX to JSON](https://bibtex-to-json.herokuapp.com)
-17. [BibTeX to YAML](https://bibtex-to-yaml.herokuapp.com)
-18. [BibTeX to CSV](https://bibtex-to-csv.herokuapp.com)
-19. [BibTeX to XML](https://bibtex-to-xml.herokuapp.com)
-20. [BibTeX to EndNote](https://bibtex-to-endnote.herokuapp.com)
-21. [BibTeX to RIS](https://bibtex-to-ris.herokuapp.com)
-22. [BibTeX to BibLaTeX](https://bibtex-to-biblatex.herokuapp.com)
-23. [BibTeX to BibTeX](https://bibtex-to-bibtex.herokuapp.com)
-24. [BibTeX to BibTeX Online](https://bibtex-to-bibtexonline.herokuapp.com)
 
 ## Research Socialization
 1. [GitHub](https://github.com)
