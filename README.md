@@ -18,6 +18,7 @@ Ways to research happily!
 ### Proposal
 1. [如何写选题（开题）报告](https://mp.weixin.qq.com/s/Nm290G0buJq0VlroG9oQLA)
 2. [选题的优雅法则——FINER criteria](https://mp.weixin.qq.com/s/Hs2DQ-b7cZO3rzCnjPeWhQ)
+3. [How to Write a Grant Proposal](https://simon.peytonjones.org/great-grant-proposal/)
 
 ### Submitting Paper
 1. [Common problems that lead to rejection](https://www.hindawi.com/post/common-problems-lead-rejection/)
