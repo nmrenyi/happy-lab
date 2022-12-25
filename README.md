@@ -14,6 +14,7 @@ Ways to research happily!
 4. [How to gain & keep focus for writing](https://writingscientist.com/focus/)
 5. [Book: Writing for Computer Science](https://yosnex.files.wordpress.com/2015/11/ref-3-writing-for-computer-science.pdf)
 6. [How to write a review paper (zh_CN)](https://mp.weixin.qq.com/s/BUyeJLe-HLqQ0L3KfdRDHA)
+7. [How I wrote a PhD thesis in 3 months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
 
 ### Proposal
 1. [如何写选题（开题）报告](https://mp.weixin.qq.com/s/Nm290G0buJq0VlroG9oQLA)
