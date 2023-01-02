@@ -6,6 +6,7 @@ Ways to research happily!
 ### Reading
 1. [How to Read a Scientific Article](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf)
 2. [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+3. [READING SCIENTIFIC PAPERS](https://web.stanford.edu/~siegelr/readingsci.htm) ([zh_CN version](https://mp.weixin.qq.com/s/rhHKIhwoIGHVWTvUCqCuEQ))
 
 ### Writing
 1. [How to write a whole research paper in a week](https://writingscientist.com/paper-in-a-week/)
