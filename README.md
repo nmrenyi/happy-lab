@@ -25,6 +25,7 @@ Ways to research happily!
 ### Submitting Paper
 1. [Common problems that lead to rejection](https://www.hindawi.com/post/common-problems-lead-rejection/)
 2. [Never on a Sunday! Is there a best day for submitting an article for publication?](https://blogs.lse.ac.uk/impactofsocialsciences/2019/01/29/never-on-a-sunday-is-there-a-best-day-for-submitting-an-article-for-publication/)
+3. [How to Get Your SIGGRAPH Paper Rejected](https://www.siggraph.org/sites/default/files/kajiya.pdf)
 
 ### Giving Talks
 1. [How to Give a Great Research Talk](https://simon.peytonjones.org/great-research-talk/)
