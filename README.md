@@ -59,6 +59,13 @@ Ways to research happily!
 11. [BibSonomy](https://www.bibsonomy.org)
 12. [BibBase](https://bibbase.org)
 
+### Search Engines
+1. [Google Scholar](https://scholar.google.com)
+2. [Semantic Scholar](https://www.semanticscholar.org)
+3. [arXiv](https://arxiv.org)
+4. [Google](https://www.google.com)
+5. [Anna’s Archive (a possible alternative for z-lib)](https://annas-archive.org)
+
 ## Research Socialization
 1. [GitHub](https://github.com)
 2. [Google Scholar](https://scholar.google.com)
@@ -68,13 +75,6 @@ Ways to research happily!
 6. [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 7. [OpenReview](https://openreview.net)
 8. [Semantic Scholar](https://www.semanticscholar.org)
-
-## Search Engines
-1. [Google Scholar](https://scholar.google.com)
-2. [Semantic Scholar](https://www.semanticscholar.org)
-3. [arXiv](https://arxiv.org)
-4. [Google](https://www.google.com)
-5. [Anna’s Archive (a possible alternative for z-lib)](https://annas-archive.org)
 
 
 ## Research Methodology
