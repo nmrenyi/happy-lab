@@ -69,6 +69,14 @@ Ways to research happily!
 7. [OpenReview](https://openreview.net)
 8. [Semantic Scholar](https://www.semanticscholar.org)
 
+## Search Engines
+1. [Google Scholar](https://scholar.google.com)
+2. [Semantic Scholar](https://www.semanticscholar.org)
+3. [arXiv](https://arxiv.org)
+4. [Google](https://www.google.com)
+5. [Anna’s Archive (a possible alternative for z-lib)](https://annas-archive.org)
+
+
 ## Research Methodology
 ### How to PhD
 1. [PhD](https://github.com/macoj/phd)
