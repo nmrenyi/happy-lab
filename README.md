@@ -112,3 +112,6 @@ Ways to research happily!
 3. [How to Meditate](https://www.mindful.org/how-to-meditate/)
 4. [Meditation for Beginners](https://www.mindful.org/meditation-for-beginners/)
 5. [How to Meditate](https://www.nytimes.com/guides/well/how-to-meditate)
+
+## Other Similar Collections
+1. [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
